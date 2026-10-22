@@ -1,5 +1,5 @@
-# WinWall
+# WinWall has moved
 
-Download the latest [WinWall](https://github.com/AbhayShah06/WinWall-dist/releases/latest) live-wallpaper app for Windows.
+Downloads, source and future updates: [AbhayShah06/WinWall](https://github.com/AbhayShah06/WinWall).
 
-Made by Abhay Shah ([@AbhayShah06](https://x.com/AbhayShah06)).
+This archived repository stays public only to deliver version 1.0.8 to older installations. That version switches automatic updates to the main repository. No further releases are planned here.
